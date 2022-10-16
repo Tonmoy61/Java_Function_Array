@@ -1,6 +1,4 @@
-# Java_Function_Array Problem
-
-# Java Function Array Problem
+# Java_Function_Array_Problem
 
 ## Question
 
