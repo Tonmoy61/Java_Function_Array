@@ -1,6 +1,6 @@
 # Java_Function_Array_Problem
 
-## :pushpin: Question
+:QUESTION:
 
 :point_right: Take input from a user and check if the number exists in the array.
 
