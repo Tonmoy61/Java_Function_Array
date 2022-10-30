@@ -1,4 +1,4 @@
-# Java_Function_Array_Problem
+<h1 align="center">Java_Function_Array_Problem</h1>
 
 🟩 Question
 
